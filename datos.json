@@ -1,0 +1,284 @@
+[
+    {
+        "id": 1,
+        "genero": "Documentary",
+        "url_img": "assets/img/generos/documental.jpg",
+        "videos": [
+            {
+                "id_pelicula": "1",
+                "titulo": "Nanuk, el esquimal",
+                "url_img": "assets/img/peliculas/documentary/esquimal.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "2",
+                "titulo": "El triunfo de la voluntad",
+                "url_img": "assets/img/peliculas/documentary/triunfodevoluntad.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "3",
+                "titulo": "Noche y niebla",
+                "url_img": "assets/img/peliculas/documentary/nocheyniebla.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "4",
+                "titulo": "El juego de la guerra ",
+                "url_img": "assets/img/peliculas/documentary/El juego de la guerra.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "5",
+                "titulo": "El último vals",
+                "url_img": "assets/img/peliculas/documentary/El último vals.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "6",
+                "titulo": "Koyaanisqatsi",
+                "url_img": "assets/img/peliculas/documentary/Koyaanisqatsi.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "7",
+                "titulo": "The Thin Blue Line",
+                "url_img": "assets/img/peliculas/documentary/The Thin Blue Line.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "8",
+                "titulo": "Baraka ",
+                "url_img": "assets/img/peliculas/documentary/Baraka.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "9",
+                "titulo": "Everest ",
+                "url_img": "assets/img/peliculas/documentary/Everest.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "10",
+                "titulo": "Bowling for Columbine ",
+                "url_img": "assets/img/peliculas/documentary/Bowling for Columbine.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "10",
+                "titulo": "Super size Me",
+                "url_img": "assets/img/peliculas/documentary/Super size Me.jpg",
+                "duracion": "01:20:00"
+            }
+
+        ]
+    },
+    {
+        "id": 2,
+        "genero": "Comedy",
+        "url_img": "assets/img/generos/comedia.jpg",
+        "videos": [
+            {
+                "id_pelicula": "1",
+                "titulo": "El hombre mosca",
+                "url_img": "assets/img/peliculas/comedy/El hombre mosca.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "2",
+                "titulo": "El moderno Sherlock Holmes",
+                "url_img": "assets/img/peliculas/comedy/El moderno Sherlock Holmes.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "3",
+                "titulo": "La quimera del oro",
+                "url_img": "assets/img/peliculas/comedy/La quimera del oro.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "4",
+                "titulo": "El maquinista de la General",
+                "url_img": "assets/img/peliculas/comedy/El maquinista de la General.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "5",
+                "titulo": "Sopa de ganso",
+                "url_img": "assets/img/peliculas/comedy/Sopa de ganso.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "6",
+                "titulo": "Sucedió una noche",
+                "url_img": "assets/img/peliculas/comedy/Sucedió una noche.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "7",
+                "titulo": "Tiempos modernos ",
+                "url_img": "assets/img/peliculas/comedy/Tiempos modernos.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "8",
+                "titulo": "Terrible verdad",
+                "url_img": "assets/img/peliculas/comedy/Terrible verdad.jpg",
+                "duracion": "01:20:00"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "genero": "Action",
+        "url_img": "assets/img/generos/accion.jpg",
+        "videos": [
+            {
+                "id_pelicula": "1",
+                "titulo": "rocky",
+                "url_img": "assets/img/peliculas/action/rocky.jpeg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "2",
+                "titulo": "rambo",
+                "url_img": "assets/img/peliculas/action/rambo.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "3",
+                "titulo": "depredador",
+                "url_img": "assets/img/peliculas/action/depredador.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "4",
+                "titulo": "xmen",
+                "url_img": "assets/img/peliculas/action/xmen.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "5",
+                "titulo": "capitan america",
+                "url_img": "assets/img/peliculas/action/capitan america.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "6",
+                "titulo": "robot",
+                "url_img": "assets/img/peliculas/action/robot.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "7",
+                "titulo": "alita",
+                "url_img": "assets/img/peliculas/action/alita.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "8",
+                "titulo": "valle del mamado",
+                "url_img": "assets/img/peliculas/action/valle del mamado.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "9",
+                "titulo": "persecusion extrema",
+                "url_img": "assets/img/peliculas/action/persecusion extrema.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "10",
+                "titulo": "asesino",
+                "url_img": "assets/img/peliculas/action/asesino.jpg",
+                "duracion": "01:20:00"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "genero": "Romance",
+        "url_img": "assets/img/generos/romance.jpg",
+        "videos": [
+            {
+                "id_pelicula": "1",
+                "titulo": "El diario de Noa",
+                "url_img": "assets/img/peliculas/romance/El diario de Noa.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "2",
+                "titulo": "Love Actually",
+                "url_img": "assets/img/peliculas/romance/Love Actually.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "3",
+                "titulo": "500 días juntos.",
+                "url_img": "assets/img/peliculas/romance/500 días juntos.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "4",
+                "titulo": "Casablanca.",
+                "url_img": "assets/img/peliculas/romance/Casablanca.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "5",
+                "titulo": "Ghost",
+                "url_img": "assets/img/peliculas/romance/Ghost.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "6",
+                "titulo": "La boda de mi mejor amigo",
+                "url_img": "assets/img/peliculas/romance/La boda de mi mejor amigo.jpg",
+                "duracion": "01:20:00"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "genero": "Horror",
+        "url_img": "assets/img/generos/horrorsuspenso.jpg",
+        "videos": [
+            {
+                "id_pelicula": "1",
+                "titulo": "Noche de miedo",
+                "url_img": "assets/img/peliculas/horror/Noche de miedo.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "2",
+                "titulo": "Plan diabólico",
+                "url_img": "assets/img/peliculas/horror/Plan diabólico.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "3",
+                "titulo": "Saw",
+                "url_img": "assets/img/peliculas/horror/saw.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "4",
+                "titulo": "Seis mujeres para el asesino",
+                "url_img": "assets/img/peliculas/horror/Seis mujeres para el asesino.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "5",
+                "titulo": "The Lords of Salem",
+                "url_img": "assets/img/peliculas/horror/The Lords of Salem.jpg",
+                "duracion": "01:20:00"
+            },
+            {
+                "id_pelicula": "6",
+                "titulo": "100. 'Vampyr",
+                "url_img": "assets/img/peliculas/horror/vampyr.jpg",
+                "duracion": "01:20:00"
+            }
+        ]
+    }
+]
